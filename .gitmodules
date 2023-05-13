@@ -1,0 +1,6 @@
+[submodule "items-backend"]
+	path = items-backend
+	url = https://github.com/M0GAMB0/items-backend.git
+[submodule "items-frontend"]
+	path = items-frontend
+	url = https://github.com/M0GAMB0/items-frontend.git
